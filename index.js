@@ -3,5 +3,5 @@ moment().format();
 
 const chalk = require('chalk');
 
-var now = moment().format(“dddd, MMMM Do YYYY, h:mm:ss a”);
-console.log();
+var now = moment().format();
+console.log(now);
