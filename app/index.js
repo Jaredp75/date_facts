@@ -17,5 +17,4 @@ console.log;
 	It is ${chalk.blue(now)}.
 	It is the ${chalk.magenta(dayOfYear)}th day of the year.
 	It is ${chalk.cyan(totalseconds())} seconds into the day.
-	
 	`);

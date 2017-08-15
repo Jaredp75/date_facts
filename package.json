@@ -6,15 +6,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Jared Patterson",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jaredp75/date_facts.git"
+    "url": 
   },
-  "bugs": {
-    "url": "https://github.com/Jaredp75/date_facts/issues"
-  },
-  "homepage": "https://github.com/Jaredp75/date_facts#readme",
-  "description": ""
+  "author": "Jared Patterson",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
 }
