@@ -1,7 +1,3 @@
-var moment = require('moment');
-moment().format();
+// index.js
 
-const chalk = require('chalk');
-
-var now = moment().format();
-console.log(now);
+require('./app/index')

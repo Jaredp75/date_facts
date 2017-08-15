@@ -1,12 +1,20 @@
 {
   "name": "date_facts",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "author": "Jared Patterson",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaredp75/date_facts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaredp75/date_facts/issues"
+  },
+  "homepage": "https://github.com/Jaredp75/date_facts#readme",
+  "description": ""
 }
